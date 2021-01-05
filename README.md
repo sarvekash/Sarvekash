@@ -1,6 +1,6 @@
 - Welcome to my Github
 - Hello World ! 👋
--***I'm Sarvekash Aggarwal, a human being who is passionate about simplifying things through technology. 👋
+-*I'm Sarvekash Aggarwal, a human being who is passionate about simplifying things through technology.* 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=uniquesarvekash)
 
