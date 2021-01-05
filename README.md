@@ -5,6 +5,21 @@
 - <h4>  I'm Sarvekash Aggarwal, a human being who is passionate about simplifying things through technology.👋 </h4>  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=uniquesarvekash)
 
+My skills include:
+- Languages: `Python`, `C++`,`C`, `HTML`
+
+- Databases: `MySQL`
+
+
+
+- Competitive Programming (`Codechef:5-star`)
+
+- `Algorithms`,`Data-structures`
+
+- Operating System: `Linux`, `Windows`
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +34,4 @@ Here are some ideas to get you started:
 🤝 Always happy to help!
 🤗 Thank You!
 Thank you so much for visiting my tiny space on GitHub! ✌️
+
