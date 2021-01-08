@@ -22,13 +22,13 @@
  ### Competitive Programming Profiles
 
 <a href="https://www.hackerrank.com/uniquesarvekash">
-  <img align="left" alt="Sarvekash Aggarwal| Hackerrank" width="40px" src="https://github.com/tanishk2298/tanishk2298/blob/main/assets/hr.svg" />
+  <img align="left" alt="Sarvekash Aggarwal| Hackerrank" width="40px" src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/hr.svg" />
 </a>
 <a href="https://www.codechef.com/users/sarvekash">
-  <img align="left" alt="Sarvekash Aggarwal | Codechef" width="40px" src="https://github.com/tanishk2298/tanishk2298/blob/main/assets/cc.png" />
+  <img align="left" alt="Sarvekash Aggarwal | Codechef" width="40px" src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/cc.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/uniquesarvekash/profile">
-  <img align="left" alt="Sarvekash Aggarwal | Geeksforgeeks" width="40px" src="https://github.com/tanishk2298/tanishk2298/blob/main/assets/icons8-geeksforgeeks.svg" />
+  <img align="left" alt="Sarvekash Aggarwal | Geeksforgeeks" width="40px" src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/icons8-geeksforgeeks.svg" />
 </a>
 <br/>
 <br/>
