@@ -1,8 +1,8 @@
  <h1> Welcome to my Github </h1>
 
-- <h3> Hello World !👋 </h3> 
+ <h3> Hello World !👋 </h3> 
 
-- <h4>  I'm Sarvekash Aggarwal, a human being who is passionate about simplifying things through technology.👋 </h4>  
+ <h4>  I'm Sarvekash Aggarwal, a human being who is passionate about simplifying things through technology.👋 </h4>  
 
 
 
@@ -34,7 +34,7 @@
   <img align="left" alt="Tanishk Sharma | Geeksforgeeks" width="40px" src="https://github.com/tanishk2298/tanishk2298/blob/main/assets/icons8-geeksforgeeks.svg" />
 </a>
 
-### Connect w/ Me
+- ### Connect w/ Me
 
 [<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tsrsharma.22@gmail.com)
