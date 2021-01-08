@@ -1,4 +1,4 @@
-bcs- <h1> Welcome to my Github </h1>
+ <h1> Welcome to my Github </h1>
 
 - <h3> Hello World !👋 </h3> 
 
@@ -24,8 +24,8 @@ bcs- <h1> Welcome to my Github </h1>
 
 ### Competitive Programming Profiles
 
-<a href="https://www.hackerrank.com/tsrsharma_22">
-  <img align="left" alt="Tanishk Sharma | Hackerrank" width="40px" src="https://github.com/tanishk2298/tanishk2298/blob/main/assets/hr.svg" />
+<a href="https://www.hackerrank.com/uniquesarvekash">
+  <img align="left" alt="Sarvekash Aggarwal| Hackerrank" width="40px" src="https://github.com/tanishk2298/tanishk2298/blob/main/assets/hr.svg" />
 </a>
 <a href="https://www.codechef.com/users/tsrsharma_22">
   <img align="left" alt="Tanishk Sharma | Codechef" width="40px" src="https://github.com/tanishk2298/tanishk2298/blob/main/assets/cc.png" />
