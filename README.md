@@ -30,9 +30,10 @@
 <a href="https://auth.geeksforgeeks.org/user/uniquesarvekash/profile">
   <img align="left" alt="Sarvekash Aggarwal | Geeksforgeeks" width="40px" src="https://github.com/tanishk2298/tanishk2298/blob/main/assets/icons8-geeksforgeeks.svg" />
 </a>
+<br/>
+<br/>
 
-
-- ### Connect w/ Me
+ ### Connect w/ Me
 
 [<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cse.19bcs4519@gmail.com)
