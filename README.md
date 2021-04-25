@@ -16,7 +16,7 @@
 - ![](https://komarev.com/ghpvc/?username=uniquesarvekash&color=blue)
 <hr />
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=uniquesarvekash&show_icons=true&theme=dark&count_private=true&hide=prs)
+![My github stats](https://github-readme-stats.vercel.app/api?username=sarvekash&show_icons=true&theme=dark&count_private=true&hide=prs)
 
 
  ### Competitive Programming Profiles
