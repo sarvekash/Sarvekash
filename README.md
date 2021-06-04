@@ -15,10 +15,10 @@
 - 📫 How to reach me - [19bcs4519@gmail.com](mailto:19bcs4519@gmail.com) 
 - 🎮 I love to play video games
 - ⚡ Fun fact: Sadly there isn't anything fun about me!
-- ![](https://komarev.com/ghpvc/?username=uniquesarvekash&color=blue)
+- ![](https://komarev.com/ghpvc/?username=uniquesarvekash&color=red)
 <hr />
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=sarvekash&show_icons=true&theme=dark&count_private=true&hide=prs)
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sarvekash&show_icons=true&theme=dark" alt="sidbugalia" />
 
 
  ### Competitive Programming Profiles
@@ -27,7 +27,7 @@
   <img align="left" alt="Sarvekash Aggarwal| Hackerrank" width="40px" src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/hr.svg" />
 </a>
 <a href="https://www.codechef.com/users/sarvekash">
-  <img align="left" alt="Sarvekash Aggarwal | Codechef" width="40px" src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/cc.png" />
+  <img align="left" alt="Sarvekash Aggarwal | Codechef" width="40px" src="https://github.com/sarvekash/sarvekash/blob/main/assets/cc.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/uniquesarvekash/profile">
   <img align="left" alt="Sarvekash Aggarwal | Geeksforgeeks" width="40px" src="https://github.com/uniquesarvekash/uniquesarvekash/blob/main/assets/icons8-geeksforgeeks.svg" />
@@ -42,7 +42,6 @@
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-[facebook]: https://www.facebook.com/uniquesarvekash/
-[instagram]: https://www.instagram.com/uniquesarvekash/
+[facebook]: https://www.facebook.com/sarvekash/
+[instagram]: https://www.instagram.com/sarvekash/
 [linkedin]: https://www.linkedin.com/in/uniquesarvekash/
-
