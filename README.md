@@ -12,7 +12,7 @@
 - 🌱 Currently working w/ MERN Stack ( Too mainstream right! )
 - 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source projects
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
-- 📫 How to reach me - [cse.19bcs4519@gmail.com](mailto:cse.19bcs4519@gmail.com) 
+- 📫 How to reach me - [sarvekashaggarwalofficial@gmail.com](mailto:sarvekashaggarwalofficial@gmail.com) 
 - 🎮 I love to play video games
 - ⚡ Fun fact: Sadly there isn't anything fun about me!
 - ![](https://komarev.com/ghpvc/?username=uniquesarvekash&color=red)
